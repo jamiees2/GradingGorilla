@@ -1,5 +1,5 @@
 https://gist.github.com/Garviell/cd5e3c220e9d9940cc1c
-```
+```js
 var list = true;
 var jq = document.createElement('script');
 jq.src = "https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js";
@@ -18,7 +18,7 @@ if(list){
 ```
 
 https://gist.github.com/jamiees2/91878ef5047da14e26a6
-```
+```js
 var jq = document.createElement('script');
 jq.src = "https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js";
 document.getElementsByTagName('head')[0].appendChild(jq);
